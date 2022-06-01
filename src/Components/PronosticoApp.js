@@ -1,4 +1,4 @@
-import logo from '../weather-news.png';
+import logo from '../../public/assets/weather-news.png';
 import './css/pronosticoIndex.css';
 import { PronosticoBody } from './PronosticoBody';
 import { PronosticoForm } from './PronosticoForm';
