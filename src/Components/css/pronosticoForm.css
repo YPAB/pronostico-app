@@ -1,0 +1,82 @@
+.PronosticoFormTitle {
+    /* H2 */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    color: #f1f51e;
+}
+
+
+.PronosticoFormInputLabel {
+    /* H2 - Alternative */
+    margin-bottom: 5px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 25px;
+    /* identical to box height, or 133% */
+    color: #35352e;
+}
+
+.PronosticoFormInput {
+        /* Rectangle 92 */
+    width: 400px;
+    box-sizing: border-box;
+    height: 40px;
+    margin-bottom: 30px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    padding: 10px;
+
+    background: #F5F5F5;
+    border-radius: 5px;
+
+}
+
+.PronositcoFormButton {
+        /* Rectangle 93 */
+    width: 400px;
+    height: 50px;
+    left: 1214px;
+    
+    background: #0f62df;
+    border-radius: 10px;
+
+}
+
+.PronosticoFormButtonH4 {
+    /* H2 - Alternative */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 32px;
+    margin: 0% auto;
+  
+    /* identical to box height, or 133% */
+    color: #f6fafa;
+    
+
+}
+
+.PronosticoFormError {
+        width: 100%;
+        border: 1px solid #8692A6;
+        box-sizing: border-box;
+        border-radius: 6px;
+        height: 64px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        color: red;
+        padding: 10px;
+        margin-top: 20px;
+      }
+
